@@ -11,7 +11,7 @@ import SwiftUI
 struct HatchWorksChallengeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CharactersListView()
         }
     }
 }
